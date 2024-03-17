@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320089758516",
+    "project_id": "fir-journey1-d25b9",
+    "storage_bucket": "fir-journey1-d25b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320089758516:android:1584c2214eb3e477272361",
+        "android_client_info": {
+          "package_name": "com.example.firebasejourney1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG3XduWY08ewxENETiuMwWfs4ezGSb0T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

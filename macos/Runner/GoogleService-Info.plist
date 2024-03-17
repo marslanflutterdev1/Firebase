@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCmDrrmvAo_Oa-_ZUcxLxkoIk4ontvlP38</string>
+	<key>GCM_SENDER_ID</key>
+	<string>320089758516</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebasejourney1.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>fir-journey1-d25b9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-journey1-d25b9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:320089758516:ios:43d87b7ee05b7012272361</string>
+</dict>
+</plist>
