@@ -1,4 +1,4 @@
-import 'package:firebasejourney1/firebase_services/loginfirebase.dart';
+import 'package:firebasejourney1/ui/loginfirebase.dart';
 import 'package:firebasejourney1/ui/login/loginstorescreen.dart';
 import 'package:flutter/material.dart';
 import 'package:clay_containers/clay_containers.dart';

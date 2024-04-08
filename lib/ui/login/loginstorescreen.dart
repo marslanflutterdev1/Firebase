@@ -4,7 +4,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebasejourney1/ui/login/loginscreen1.dart';
 import 'package:firebasejourney1/ui/login/updatascreen.dart';
 import 'package:flutter/material.dart';
-import 'package:firebasejourney1/firebase_services/loginfirebase.dart';
+import 'package:firebasejourney1/ui/loginfirebase.dart';
 
 class LoginStoreScreen extends StatefulWidget {
   LoginStoreScreen({super.key});
